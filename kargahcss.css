@@ -1,0 +1,32 @@
+body{
+	background-image: url("pic2.jpg");
+	background-color: black;
+}
+p{
+	font-size:20pt;
+	color:white;
+}
+h1{
+	font-size:35pt;
+	color:#99BBFF;
+}
+h2{
+	font-size:26pt;
+	color:#99BBFF;
+}
+.li{
+	font-size:20pt;
+	color:#CCFFE6;
+}
+.me{
+	font-size:35pt;
+	color:#33FF77;
+}
+.dis{
+	font-size:20pt;
+	color:#99BBFF;
+}
+.temp{
+	font-size:23pt;
+	color:#99BBFF;
+}
