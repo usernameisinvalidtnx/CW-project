@@ -1,0 +1,11 @@
+How to use the code:
+place your picture on kargah.php on line 11.
+place your name on line 10.
+add you biography on line 14 15 ...  .
+add your skills on line 21 to 25.
+add your interests on line 31 to 34.
+add your relatable link and how you want to show them on line 40 to 43.
+add your Contact way NO1 URL and how you want to show them on line 49 50 51.
+done
+writen by F Rezaei
+for CW project
